@@ -1,0 +1,7 @@
+include required(file("caching.scenarios"))
+
+# file-to-change  = "subprojects/build-cache/src/main/java/org/gradle/caching/local/internal/DirectoryBuildCacheService.java"
+# tasks-to-measure = [":build-cache:compileAll"]
+
+file-to-change = "subprojects/dependency-management/src/main/java/org/gradle/api/internal/artifacts/configurations/DefaultConfiguration.java"
+tasks-to-measure = [":dependency-management:compileAll"]

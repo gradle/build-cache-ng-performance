@@ -1,0 +1,9 @@
+[submodule "gradle-profiler"]
+	path = gradle-profiler
+	url = https://github.com/gradle/gradle-profiler
+[submodule "gradle"]
+	path = gradle
+	url = https://github.com/gradle/gradle
+[submodule "santa-tracker-android"]
+	path = santa-tracker-android
+	url = https://github.com/gradle/santa-tracker-android

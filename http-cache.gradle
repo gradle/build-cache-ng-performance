@@ -1,0 +1,24 @@
+gradle.settingsEvaluated {
+    it.buildCache {
+        if (Boolean.getBoolean("benchmark.http")) {
+            remote(org.gradle.caching.http.HttpBuildCache) {
+                enabled = true
+                url = Boolean.getBoolean("org.gradle.unsafe.cache.ng")
+                    ? System.getenv("HTTP_CACHE_URL") + "-ng"
+                    : System.getenv("HTTP_CACHE_URL") + "-baseline"
+                push = (System.getenv("HTTP_CACHE_PUSH") == "true")
+                println "Using cache at $url, push is ${push ? "enabled" : "disabled"}}"
+                credentials {
+                    username = System.getenv("HTTP_CACHE_USERNAME")
+                    password = System.getenv("HTTP_CACHE_PASSWORD")
+                }
+                allowUntrustedServer = true
+            }
+        } else {
+            println "Using no HTTP cache"
+            remote(org.gradle.caching.http.HttpBuildCache) {
+                enabled = false
+            }
+        }
+    }
+}
