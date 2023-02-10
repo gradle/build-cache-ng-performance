@@ -1,0 +1,265 @@
+Scenario,Tool,Tasks,Phase,Iteration,Sample,Duration,Count
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,total execution time,59689.55,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,garbage collection time,1471.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,total execution time,1927.65,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,garbage collection time,34.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,total execution time,1839.99,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,garbage collection time,60.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,total execution time,1649.45,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,garbage collection time,45.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,total execution time,1540.28,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,garbage collection time,64.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,total execution time,1454.39,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,garbage collection time,49.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,total execution time,1405.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,garbage collection time,0.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,total execution time,1492.17,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,garbage collection time,15.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,total execution time,1399.60,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,garbage collection time,45.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,total execution time,1417.89,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,garbage collection time,55.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,total execution time,1297.15,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,garbage collection time,0.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,total execution time,1336.02,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,garbage collection time,10.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,total execution time,1378.17,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,garbage collection time,30.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,total execution time,1353.43,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,garbage collection time,55.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,total execution time,1400.64,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,garbage collection time,65.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,total execution time,1330.96,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,garbage collection time,30.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,total execution time,1297.18,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,garbage collection time,0.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,total execution time,1285.29,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,garbage collection time,14.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,total execution time,1316.17,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,garbage collection time,31.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,total execution time,1393.46,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,garbage collection time,64.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,total execution time,1340.66,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,garbage collection time,56.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,local build cache size,76.19,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,total execution time,1379.83,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,garbage collection time,57.00,1
+Clean build - baseline cache,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,local build cache size,76.19,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,total execution time,43440.02,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,garbage collection time,597.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,local build cache size,33.94,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,total execution time,1985.90,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,garbage collection time,82.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,total execution time,1693.58,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,garbage collection time,64.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,total execution time,1714.53,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,garbage collection time,73.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,total execution time,1564.20,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,garbage collection time,54.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,total execution time,1600.23,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,garbage collection time,45.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,total execution time,1400.72,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,garbage collection time,42.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,total execution time,1486.52,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,garbage collection time,37.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,total execution time,1397.12,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,garbage collection time,56.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,total execution time,1397.79,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,garbage collection time,44.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,total execution time,1367.38,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,garbage collection time,43.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,total execution time,1393.52,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,garbage collection time,45.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,total execution time,1327.02,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,garbage collection time,50.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,total execution time,1339.29,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,garbage collection time,50.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,total execution time,1384.90,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,garbage collection time,57.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,total execution time,1392.25,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,garbage collection time,50.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,total execution time,1291.34,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,garbage collection time,43.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,total execution time,1330.63,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,garbage collection time,41.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,total execution time,1301.87,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,garbage collection time,43.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,total execution time,1346.50,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,garbage collection time,45.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,total execution time,1284.33,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,garbage collection time,53.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,local build cache size,57.15,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,total execution time,1313.12,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,garbage collection time,55.00,1
+Clean build - cache NG,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,local build cache size,57.15,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,total execution time,49068.32,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,garbage collection time,507.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,total execution time,7508.68,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,garbage collection time,132.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,total execution time,7364.43,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,garbage collection time,81.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,total execution time,7715.33,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,garbage collection time,87.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,total execution time,7331.39,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,garbage collection time,80.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,total execution time,7440.37,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,garbage collection time,131.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,total execution time,7479.89,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,garbage collection time,90.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,total execution time,7207.28,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,garbage collection time,113.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,total execution time,7609.47,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,garbage collection time,122.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,total execution time,7406.05,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,garbage collection time,121.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,total execution time,7518.06,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,garbage collection time,91.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,total execution time,7201.38,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,garbage collection time,122.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,total execution time,7526.92,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,garbage collection time,93.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,total execution time,7253.74,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,garbage collection time,81.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,total execution time,7584.51,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,garbage collection time,81.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,total execution time,7195.68,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,garbage collection time,85.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,total execution time,7613.41,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,garbage collection time,92.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,total execution time,7320.04,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,garbage collection time,130.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,total execution time,7571.47,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,garbage collection time,83.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,total execution time,7222.34,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,garbage collection time,81.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,total execution time,7598.31,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,garbage collection time,84.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,local build cache size,25.26,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,total execution time,7297.87,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,garbage collection time,124.00,1
+Clean build - baseline cache w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,local build cache size,25.26,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,total execution time,50526.23,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,garbage collection time,508.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,1,local build cache size,37.04,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,total execution time,9005.46,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,garbage collection time,112.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,WARM_UP,2,local build cache size,28.40,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,total execution time,8482.35,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,garbage collection time,114.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,1,local build cache size,29.21,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,total execution time,8710.11,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,garbage collection time,113.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,2,local build cache size,28.58,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,total execution time,8597.22,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,garbage collection time,169.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,3,local build cache size,28.68,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,total execution time,8517.37,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,garbage collection time,127.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,4,local build cache size,29.01,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,total execution time,8995.52,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,garbage collection time,129.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,5,local build cache size,28.14,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,total execution time,8638.74,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,garbage collection time,129.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,6,local build cache size,28.91,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,total execution time,8752.15,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,garbage collection time,147.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,7,local build cache size,28.92,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,total execution time,8863.65,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,garbage collection time,128.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,8,local build cache size,28.37,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,total execution time,8508.58,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,garbage collection time,104.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,9,local build cache size,29.47,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,total execution time,8687.55,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,garbage collection time,108.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,10,local build cache size,29.05,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,total execution time,8740.20,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,garbage collection time,134.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,11,local build cache size,28.63,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,total execution time,9060.26,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,garbage collection time,114.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,12,local build cache size,28.07,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,total execution time,8742.57,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,garbage collection time,137.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,13,local build cache size,28.91,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,total execution time,9013.45,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,garbage collection time,146.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,14,local build cache size,28.48,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,total execution time,8162.67,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,garbage collection time,98.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,15,local build cache size,28.77,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,total execution time,8434.12,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,garbage collection time,131.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,16,local build cache size,28.87,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,total execution time,8469.57,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,garbage collection time,124.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,17,local build cache size,28.98,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,total execution time,8588.51,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,garbage collection time,106.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,18,local build cache size,29.66,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,total execution time,8534.37,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,garbage collection time,98.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,19,local build cache size,28.93,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,total execution time,8668.60,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,garbage collection time,110.00,1
+Clean build - cache NG w/ HTTP remote,Gradle 8.1-20230210091452+0000,:santa-tracker:assembleDebug,MEASURE,20,local build cache size,28.09,1
