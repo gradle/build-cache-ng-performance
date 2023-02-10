@@ -12,6 +12,7 @@ gradle.settingsEvaluated {
                     username = System.getenv("HTTP_CACHE_USERNAME")
                     password = System.getenv("HTTP_CACHE_PASSWORD")
                 }
+                allowInsecureProtocol = true
                 allowUntrustedServer = true
             }
         } else {
