@@ -4,4 +4,8 @@ include required(file("caching.scenarios"))
 # tasks-to-measure = [":build-cache:compileAll"]
 
 file-to-change = "subprojects/dependency-management/src/main/java/org/gradle/api/internal/artifacts/configurations/DefaultConfiguration.java"
-tasks-to-measure = [":dependency-management:compileAll"]
+tasks-to-measure = ["compileAll"]
+
+commit-master = "790618910e5d8de96c9bf320d0ac9d6a1502aaec"
+# https://github.com/gradle/gradle/pull/23771/commits
+commit-branch = "75fed0b98f73b5e6b7e52daab7b091048ba7188d"

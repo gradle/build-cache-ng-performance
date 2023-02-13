@@ -2,3 +2,6 @@ include required(file("caching.scenarios"))
 
 file-to-change  = "common/src/main/java/com/google/android/apps/santatracker/AudioPlayer.kt"
 tasks-to-measure = [":santa-tracker:assembleDebug"]
+
+commit-master = "180b7a91054d5fe5b617543bb2f74a3819537b7b"
+commit-branch = "37a7d12c40f36657a0cb0181979c401c752bd328"
